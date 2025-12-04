@@ -1,0 +1,5 @@
+{
+  "name": "VaultGallery",
+  "description": "A secure gallery application with a private vault, biometric-style authentication, and smooth transitions.",
+  "requestFramePermissions": []
+}
